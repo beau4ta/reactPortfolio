@@ -1,0 +1,12 @@
+.header{
+    background-color:#D6FADC;
+    padding: 15px;
+}
+
+.header-title{
+    color:#7E00C2;
+    text-shadow: #3f0260 2px 2px;
+    -webkit-text-stroke-color: #aa0bff;
+    -webkit-text-stroke-width: 1px;
+    font-family: 'Encode Sans SC', sans-serif;
+}
