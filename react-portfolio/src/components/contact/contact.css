@@ -1,8 +1,14 @@
-#projects{
+.contact-container{
     background-image: url(../../assets/HTML_Blog-scaled.jpeg);
+    background-position: center;
+    background-size: cover;
 }
 
-.proj-title-con{
+.beau-img{
+    width: 20%;
+}
+
+.contact-title{
     border: solid 5px #560183;
     border-radius: 10px;
     box-shadow: 4px 4px #560183;
@@ -15,22 +21,7 @@
     padding: 10px;
 }
 
-.proj-main-title{
-    color:#2194dc;
-    text-shadow: #021060 2px 2px;
-    font-family: 'Encode Sans SC', sans-serif;
-}
-
-.proj-sub-title{
-    color: #2194dc;
-}
-
-.proj-sub{
-    color: #2194dc;
-    text-shadow: #021060 2px 2px;
-}
-
-.proj-container{
+.contact-info{
     border: solid 5px #560183;
     border-radius: 10px;
     box-shadow: 4px 4px #560183;
@@ -43,25 +34,13 @@
     padding: 10px;
 }
 
-.proj-image{
-    width: 50%;
-    border: solid 5px #2194dc;
-    border-radius: 10px;
-    box-shadow: 4px 4px #012055;
-}
-
-.proj-image:hover{
-    transform: scale(1.02);
-}
-
-.proj-sub{
-    padding: 10px;
-}
-
-.repo{
+.email,
+.number{
+    font-size: xx-large;
     color: #2194dc;
 }
 
-.repo:hover{
+.email:hover,
+.number:hover{
     color: #be61f0;
 }

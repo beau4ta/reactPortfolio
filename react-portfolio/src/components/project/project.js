@@ -31,6 +31,7 @@ const Projects = () => {
                 <h2 className="proj-sub">
                     {project.subtitle}
                   </h2>
+                  <a className="repo" href={project.repo}>REPO LINK</a>
               </div>
             </a>
             </div>

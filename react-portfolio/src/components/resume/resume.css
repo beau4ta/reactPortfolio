@@ -1,0 +1,16 @@
+.resume-container{
+    background-image: url(../../assets/HTML_Blog-scaled.jpeg);
+    padding: 20px;
+}
+
+.resume-img{
+    width: 50%;
+    border: solid 5px #7E00C2;
+    border-radius: 10px;
+    box-shadow: 5px 5px #400261;
+    margin: 15px;
+}
+
+.resume-img:hover{
+    transform: scale(1.02);
+}

@@ -1,7 +1,6 @@
 import React from 'react';
 import './about.css';
 import Beau from '../../assets/beaufuneral3.JPG';
-import BG from '../../assets/HTML_Blog-scaled.jpeg';
 
 const About = () => {
     return (
