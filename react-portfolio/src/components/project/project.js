@@ -1,45 +1,41 @@
 import React from 'react';
+import { projects } from '../../data';
+import './project.css';
 
 const Projects = () => {
     return (
-        <section id="projects" className="text-gray-400 bg-gray-900 body-font">
-      <div className="container px-5 py-10 mx-auto text-center lg:px-40">
-        <div className="flex flex-col w-full mb-20">
-          <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-            Apps I've Built
+        <section id="projects" className="container-fluid d-flex flex-column align-items-center">
+        <div className="proj-title-con col-6">
+          <h1 className="proj-main-title">
+            Projects
           </h1>
-          <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+          <p className="proj-sub-title">
+            As a student at Case Western Reserve University, I have been exposed to many technologies
+            and opportunites to create many different projects. Here are some of the assignments I deem to be most important!
           </p>
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div className="row proj-main-container d-flex justify-content-center align-items-center flex-wrap container-fluid">
           {projects.map((project) => (
-            <a
-              href={project.link}
-              key={project.image}
-              className="sm:w-1/2 w-100 p-4">
-              <div className="flex relative">
-                <img
-                  alt="gallery"
-                  className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={project.image}
-                />
-                <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
-                  <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
-                    {project.subtitle}
-                  </h2>
-                  <h1 className="title-font text-lg font-medium text-white mb-3">
+            <div className='proj-container d-flex col-5'>
+            <a href={project.link} key={project.image} className="proj-link">
+              <div className="container-fluid d-flex flex-column align-items-center">
+                  <h1 className="proj-main-title">
                     {project.title}
                   </h1>
-                  <p className="leading-relaxed">{project.description}</p>
-                </div>
+                  <p className="proj-sub-title">{project.description}</p>
+                <img
+                  alt="Project"
+                  className="proj-image"
+                  src={project.image}
+                />
+                <h2 className="proj-sub">
+                    {project.subtitle}
+                  </h2>
               </div>
             </a>
+            </div>
           ))}
         </div>
-      </div>
     </section>
     )
 }

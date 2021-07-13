@@ -1,0 +1,14 @@
+.footer-container{
+    background-color: #2194dc
+}
+
+footer{
+    color: #7E00C2;
+    background-color: #2194dc;
+    padding: 10px;
+    font-family: 'Encode Sans SC', sans-serif;
+    font-weight: bold;
+    text-shadow: #3f0260 2px 2px;
+    -webkit-text-stroke-color: #aa0bff;
+    -webkit-text-stroke-width: 1px;
+}

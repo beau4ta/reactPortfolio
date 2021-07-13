@@ -1,0 +1,25 @@
+.about-container{
+    background-image: url(../../assets/HTML_Blog-scaled.jpeg);
+    padding: 20px;
+}
+
+.beau-img{
+    width: 20%;
+    border: solid 5px #7E00C2;
+    border-radius: 10px;
+    box-shadow: 5px 5px #400261;
+    margin: 15px;
+}
+
+.info-container{
+    border: solid 5px #560183;
+    border-radius: 10px;
+    box-shadow: 4px 4px #560183;
+    background-color: #7E00C2;
+    color: #2194dc;
+    margin: 10px;
+    font-family: 'Encode Sans SC', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    padding: 5px;
+}
