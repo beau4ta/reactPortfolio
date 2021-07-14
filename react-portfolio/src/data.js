@@ -2,6 +2,8 @@ import SS1 from './assets/empscheduleSS1.png';
 import SS2 from './assets/pokedexproj1.png';
 import SS3 from './assets/directorySS1.png';
 import SS4 from './assets/budgetSS1.png';
+import SS5 from './assets/ecommerceSS1.png';
+import SS6 from './assets/noteSS1.png';
 
 export const projects = [
     {
@@ -39,5 +41,23 @@ export const projects = [
       image: SS4,
       link: "https://morning-shelf-90642.herokuapp.com/",
       repo: "https://github.com/beau4ta/trackYourBudget"
+    },
+    {
+      title: "Ecommerce Sequelize",
+      subtitle: "Node.js, MySQL/Sequelize",
+      description:
+        "This assignment uses back-end technologies to create, read, update, and delete information from a database.",
+      image: SS5,
+      link: "https://drive.google.com/file/d/1tA1SVdXPxNDokKKTYGBnDiunnJ5NcTps/view",
+      repo: "https://github.com/beau4ta/ecommerce-sequelize"
+    },
+    {
+      title: "Best Weather 24/7",
+      subtitle: "JQuery, Node.js, Express.js",
+      description:
+        "This assignment uses back-end and middleware technologies to host a local server that holds a note-taking app. (This app is not deployed!)",
+      image: SS6,
+      link: "",
+      repo: "https://github.com/beau4ta/note-taker-express"
     },
   ];

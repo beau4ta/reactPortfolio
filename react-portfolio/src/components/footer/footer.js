@@ -1,11 +1,12 @@
 import React from 'react';
 import './footer.css';
+import FooterName from '../name/footerName';
 
 const Footer = () => {
     return(
         <div className='footer-container d-flex justify-content-center align-items-center'>
             <footer className='footer'>
-                <h3>Case Western Reserve University, 2021</h3>
+                <FooterName />
             </footer>
         </div>
     )
