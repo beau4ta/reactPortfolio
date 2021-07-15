@@ -11,7 +11,7 @@ import Contact from './components/contact/contact';
 
 function App() {
   return (
-    <Router basename='/reactPortfolio'>
+    <Router basename='/reactPortfolio/'>
     <div className="App">
      <Header />
      <Navbar />
