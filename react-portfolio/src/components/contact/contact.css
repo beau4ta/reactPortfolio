@@ -1,7 +1,6 @@
 .contact-container{
     background-image: url(../../assets/HTML_Blog-scaled.jpeg);
-    background-position: center;
-    background-size: cover;
+    padding: 50px;
 }
 
 .beau-img{

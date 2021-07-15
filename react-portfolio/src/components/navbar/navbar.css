@@ -14,6 +14,11 @@
     display: flex;
     align-items: center;
     margin: 5px;
+    box-shadow: 2px 2px;
+}
+
+.nav-item:hover{
+    transform: scale(1.05);
 }
 
 .link:hover{
