@@ -2,7 +2,7 @@ import React from 'react';
 import './about.css';
 import Beau from '../../assets/beaufuneral3.JPG';
 import Info from '../spring/info';
-import Image from '../../components/spring/image'
+import Image from '../spring/image'
 import Buttons from '../spring/buttons';
 
 

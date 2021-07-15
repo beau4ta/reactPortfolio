@@ -1,7 +1,7 @@
 import React from 'react';
 import { useSpring, animated } from 'react-spring';
 import TRI from '../../assets/bdzlogo.png';
-import '../spring/logo.css';
+import './logo.css';
 
 function Logo() {
     const styles = useSpring({
