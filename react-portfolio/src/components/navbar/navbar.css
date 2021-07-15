@@ -1,14 +1,16 @@
 .navbar{
-    background-color: #7E00C2;
+    background-color: #f7e698;
 }
 
 .link{
-    color: #2194dc;
+    color: #f7e698;
+    font-weight: bold;
+    text-shadow: 1px 1px#f4d54c;
     align-items: center;
 }
 
 .nav-item{
-    background-color: hsl(279, 98%, 25%);
+    background-color: #f98ba5;
     border-radius: 10px;
     padding: 10px;
     display: flex;
@@ -22,7 +24,7 @@
 }
 
 .link:hover{
-    color: #be61f0;
+    color: #7ac3e4;
 }
 
 a:link,
@@ -31,3 +33,7 @@ a:hover,
 a:active{
     text-decoration: none;
 }
+
+@media only screen and (max-width: 992px) {
+    
+  }

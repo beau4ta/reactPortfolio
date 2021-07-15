@@ -8,10 +8,10 @@
 }
 
 .contact-title{
-    border: solid 5px #560183;
+    border: solid 5px#a5d6ed;
     border-radius: 10px;
-    box-shadow: 4px 4px #560183;
-    background-color: #7E00C2;
+    box-shadow: 4px 4px#1e9bd5;
+    background-color: #7ac3e4;
     color: #2194dc;
     margin: 15px;
     font-family: 'Encode Sans SC', sans-serif;
@@ -21,10 +21,10 @@
 }
 
 .contact-info{
-    border: solid 5px #560183;
+    border: solid 5px #a5d6ed;
     border-radius: 10px;
-    box-shadow: 4px 4px #560183;
-    background-color: #7E00C2;
+    box-shadow: 4px 4px #1e9bd5;
+    background-color: #7ac3e4;
     color: #2194dc;
     margin: 15px;
     font-family: 'Encode Sans SC', sans-serif;
@@ -41,5 +41,5 @@
 
 .email:hover,
 .number:hover{
-    color: #be61f0;
+    color: #f98ba5;
 }

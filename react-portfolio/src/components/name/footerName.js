@@ -5,7 +5,7 @@ function FooterName() {
     const styles = useSpring({
       loop: true,
       to: [
-        { opacity: 1, color: '#7E00C2' },
+        { opacity: 1, color: '#f98ba5' },
         { opacity: 0, color: 'rgb(14,26,19)' },
       ],
       from: { opacity: 0, color: 'red' },

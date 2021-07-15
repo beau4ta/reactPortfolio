@@ -6,33 +6,33 @@
 
 .beau-img{
     width: 20%;
-    border: solid 5px #7E00C2;
+    border: solid 5px #7ac3e4;
     border-radius: 10px;
-    box-shadow: 5px 5px #400261;
+    box-shadow: 5px 5px #0c9fe3;
     margin: 15px;
 }
 
 .button{
-    border: solid 2px #560183;
+    border: solid 2px #7ac3e4;
     border-radius: 10px;
-    box-shadow: 4px 4px #560183;
-    background-color: #7E00C2;
-    color: #2194dc;
+    box-shadow: 4px 4px #0d9fe3;
+    background-color: #7ac3e4;
+    color: #0d9fe3;
     margin: 5px;
     padding: 5px;
 }
 
 .button:hover{
     transform: scale(1.05);
-    color: #be61f0;
+    color: #f98ba5;
 }
 
 .info-container{
-    border: solid 5px #560183;
+    border: solid 5px #a5d6ed;
     border-radius: 10px;
-    box-shadow: 4px 4px #560183;
-    background-color: #7E00C2;
-    color: #2194dc;
+    box-shadow: 4px 4px #1e9bd5;
+    background-color: #7ac3e4;
+    color: #0d9fe3;
     margin: 10px;
     font-family: 'Encode Sans SC', sans-serif;
     font-weight: bold;
