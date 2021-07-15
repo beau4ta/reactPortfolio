@@ -15,10 +15,10 @@ function App() {
     <div className="App">
      <Header />
      <Navbar />
-     <Route exact path ='/reactPorfolio/about' component={About} />
-     <Route exact path='/reactPortfolio/projects' component={Projects} />
-     <Route exact path='/reactPortfolio/resume' component={Resume} />
-     <Route exact path='reactPortfolio/contact' component={Contact} />
+     <Route exact path ='/about' component={About} />
+     <Route exact path='/projects' component={Projects} />
+     <Route exact path='/resume' component={Resume} />
+     <Route exact path='/contact' component={Contact} />
 
     <Footer />
     </div>
