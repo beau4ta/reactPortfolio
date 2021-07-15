@@ -52,7 +52,7 @@ export const projects = [
       repo: "https://github.com/beau4ta/ecommerce-sequelize"
     },
     {
-      title: "Best Weather 24/7",
+      title: "Note Taker Express",
       subtitle: "JQuery, Node.js, Express.js",
       description:
         "This assignment uses back-end and middleware technologies to host a local server that holds a note-taking app. (This app is not deployed!)",
