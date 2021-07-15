@@ -31,7 +31,7 @@ skills I have built so far in CWRU's Coding Bootcamp. It contains an about me se
 
 GitHub: https://github.com/beau4ta/reactPortfolio
 
-Deployed Application: 
+Deployed Application: https://beau4ta.github.io/reactPortfolio/
 
 
 GitHub Profile: https://github.com/beau4ta
