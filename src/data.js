@@ -2,7 +2,7 @@ import SS1 from './assets/empscheduleSS1.png';
 import SS2 from './assets/pokedexproj1.png';
 import SS3 from './assets/directorySS1.png';
 import SS4 from './assets/budgetSS1.png';
-import SS5 from './assets/ecommerceSS1.png';
+import SS5 from './assets/bookSS1.png';
 import SS6 from './assets/noteSS1.png';
 
 export const projects = [
@@ -43,13 +43,13 @@ export const projects = [
       repo: "https://github.com/beau4ta/trackYourBudget"
     },
     {
-      title: "Ecommerce Sequelize",
-      subtitle: "Node.js, MySQL/Sequelize",
+      title: "MERN GoogleBooks",
+      subtitle: "MERN Stack",
       description:
-        "This assignment uses back-end technologies to create, read, update, and delete information from a database.",
+        "This assignment uses MERN Stack to search, save and delete books to and from a database.",
       image: SS5,
-      link: "https://drive.google.com/file/d/1tA1SVdXPxNDokKKTYGBnDiunnJ5NcTps/view",
-      repo: "https://github.com/beau4ta/ecommerce-sequelize"
+      link: "https://immense-bastion-60160.herokuapp.com/",
+      repo: "https://github.com/beau4ta/MERN-GoogleBooks"
     },
     {
       title: "Note Taker Express",

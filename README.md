@@ -25,7 +25,7 @@ skills I have built so far in CWRU's Coding Bootcamp. It contains an about me se
 * Employee Scheduler - https://employee-scheduler-project.herokuapp.com/
 * Budget Tracker - https://morning-shelf-90642.herokuapp.com/
 * Employee Directory - https://beau4ta.github.io/reactEmployeeDirectory/
-* Ecommerce Sequelize - This app is not deployed.
+* MERN GOogleBooks - https://immense-bastion-60160.herokuapp.com/
 * Note Taker Express - This app is local only.
 
 
