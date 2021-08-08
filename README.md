@@ -40,4 +40,4 @@ Resume: https://docs.google.com/document/d/17gMRMCYLH5X5xLUvqPVZd0vVnyPHyqlK81p0
 
 Email: beaufortier13@gmail.com
 
-<img src='react-portfolio/src/assets/portSS.png'>
+<img src='src/assets/portSS.png'>
