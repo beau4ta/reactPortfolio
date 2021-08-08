@@ -36,7 +36,7 @@ Deployed Application: https://beau4ta.github.io/reactPortfolio/
 
 GitHub Profile: https://github.com/beau4ta
 LinkedIn: https://www.linkedin.com/in/beau-fortier-388058192/
-Resume: https://docs.google.com/document/d/17gMRMCYLH5X5xLUvqPVZd0vVnyPHyqlK81p0ww3ilZQ/edit?usp=sharing
+Resume: https://docs.google.com/document/d/1sT0MH_7ZvKa4lNsWrU_r68qg7Cs_rDuzUEKgTDQTgRE/edit?usp=sharing
 
 Email: beaufortier13@gmail.com
 
