@@ -3,9 +3,18 @@ import SS2 from './assets/pokedexproj1.png';
 import SS3 from './assets/directorySS1.png';
 import SS4 from './assets/budgetSS1.png';
 import SS5 from './assets/bookSS1.png';
-import SS6 from './assets/noteSS1.png';
+import SS6 from './assets/reelss1.png';
 
 export const projects = [
+    {
+      title: "Reel Films",
+      subtitle: "MERN Stack",
+      description:
+        "This application was our final project in CWRU's Coding Bootcamp. It is an apop that lets you create a movie list for your perfect movie night!",
+      image: SS6,
+      link: "https://frozen-ravine-79137.herokuapp.com/",
+      repo: "https://github.com/beau4ta/reel-films"
+    },
     {
       title: "Employee Scheduler",
       subtitle: "Node, MySQL/Sequelize, Express, Handlebars",
@@ -50,14 +59,5 @@ export const projects = [
       image: SS5,
       link: "https://immense-bastion-60160.herokuapp.com/",
       repo: "https://github.com/beau4ta/MERN-GoogleBooks"
-    },
-    {
-      title: "Note Taker Express",
-      subtitle: "JQuery, Node.js, Express.js",
-      description:
-        "This assignment uses back-end and middleware technologies to host a local server that holds a note-taking app. (This app is not deployed!)",
-      image: SS6,
-      link: "",
-      repo: "https://github.com/beau4ta/note-taker-express"
     },
   ];
