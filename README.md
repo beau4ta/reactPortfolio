@@ -24,7 +24,7 @@ skills I have built so far in CWRU's Coding Bootcamp. It contains an about me se
 * Project PokeDex - https://ayylam0.github.io/Pokedex-project/
 * Employee Scheduler - https://employee-scheduler-project.herokuapp.com/
 * Budget Tracker - https://morning-shelf-90642.herokuapp.com/
-* Employee Directory - https://beau4ta.github.io/reactEmployeeDirectory/
+* BDZ Music - https://beau4ta.github.io/BDZ-Music/
 * MERN GOogleBooks - https://immense-bastion-60160.herokuapp.com/
 * Reel Films - https://frozen-ravine-79137.herokuapp.com/.
 

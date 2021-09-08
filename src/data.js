@@ -1,6 +1,6 @@
 import SS1 from './assets/empscheduleSS1.png';
 import SS2 from './assets/pokedexproj1.png';
-import SS3 from './assets/directorySS1.png';
+import SS3 from './assets/bdzMusic.png';
 import SS4 from './assets/budgetSS1.png';
 import SS5 from './assets/bookSS1.png';
 import SS6 from './assets/reelss1.png';
@@ -34,10 +34,10 @@ export const projects = [
       repo: "https://github.com/AYYLAM0/Pokedex-project"
     },
     {
-      title: "Employee Directory",
+      title: "BDZ Music",
       subtitle: "React",
       description:
-        "This is the first assignment using React. It allows you to search employees from the Random User API.",
+        "This is a personal project I made to promote and share my music.",
       image: SS3,
       link: "https://beau4ta.github.io/reactEmployeeDirectory/",
       repo: "https://github.com/beau4ta/reactEmployeeDirectory"
