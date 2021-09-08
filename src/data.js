@@ -39,8 +39,8 @@ export const projects = [
       description:
         "This is a personal project I made to promote and share my music.",
       image: SS3,
-      link: "https://beau4ta.github.io/reactEmployeeDirectory/",
-      repo: "https://github.com/beau4ta/reactEmployeeDirectory"
+      link: "https://beau4ta.github.io/BDZ-Music/",
+      repo: "https://github.com/beau4ta/BDZ-Music"
     },
     {
       title: "Budget Tracker",
